@@ -3,7 +3,8 @@ require('dotenv').config();
 
 console.log(process.env)
 const api = {
- key: "12ed12ad49c09301615d1da7d72863f6",
+//  This is an open project,thats why the key is provided.(Also bcoz i was lazy to create backend ~_~ )However it is not recommended to store api keys in frontend interface.
+ key: "12ed12ad49c09301615d1da7d72863f6", 
   base: "https://api.openweathermap.org/data/2.5/"
 }
 
