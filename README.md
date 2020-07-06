@@ -13,7 +13,7 @@ This is a weather app whcih tells the current date,temperature and weather condi
 Head over to the given link to view my app--https://tranquil-sea-44818.herokuapp.com/
 
 ## TEST--
-Clone the repo in your system/device.Direct over to the folder using ClI(*command line interface*).Run nodemon app.js/ node app.js.(*prerequisite node.js in the system*)
+Clone the repo in your system/device.Direct over to the folder using CLI(*command line interface*).Run nodemon app.js/ node app.js.(*prerequisite node.js in the system*)
 
 
  
